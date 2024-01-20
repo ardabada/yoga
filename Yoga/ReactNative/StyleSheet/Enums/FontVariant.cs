@@ -1,4 +1,4 @@
-﻿namespace Yoga.StyleSheet;
+﻿namespace Yoga.ReactNative.StyleSheet.Enums;
 
 /// <see href="https://github.com/facebook/react-native/blob/main/packages/react-native/Libraries/StyleSheet/StyleSheetTypes.d.ts"/>
 public enum FontVariant
